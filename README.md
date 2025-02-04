@@ -7,9 +7,6 @@
 I'm a passionate software developer with interests in web development, data science, and open-source contributions. I enjoy learning new technologies and applying them to solve real-world problems.
 
 - 🌱 I’m currently learning advanced Python and machine learning.
-- 👯 I’m looking to collaborate on open-source projects related to web development and data science.
-- 🤔 I’m looking for help with cloud computing.
-- 💬 Ask me about JavaScript, Python, and React.
 - 📫 How to reach me: [pranjaykumar926@gmail.com](mailto:pranjaykumar926@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring nature in my free time.
 
@@ -17,20 +14,18 @@ I'm a passionate software developer with interests in web development, data scie
 
 **Languages:**
 - Python
-- JavaScript
-- HTML/CSS
+- c
 
 **Frameworks and Libraries:**
-- React
-- Node.js
-- Express.js
-- Django
+- Pandas
+- numpy
+- opencv
+- networkx
+- matplotlib
 
 **Tools and Technologies:**
 - Git & GitHub
-- Docker
-- Kubernetes
-- AWS
+- vs code
 
 ## GitHub Stats
 
