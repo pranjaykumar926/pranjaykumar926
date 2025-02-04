@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate software developer with interests in web development, data science, and open-source contributions. I enjoy learning new technologies and applying them to solve real-world problems.
+I'm a passionate software developer with interests in machine learning, data analysis, and open-source contributions. I enjoy learning new technologies and applying them to solve real-world problems.
 
 - 🌱 I’m currently learning advanced Python and machine learning.
 - 📫 How to reach me: [pranjaykumar926@gmail.com](mailto:pranjaykumar926@gmail.com)
@@ -26,6 +26,7 @@ I'm a passionate software developer with interests in web development, data scie
 **Tools and Technologies:**
 - Git & GitHub
 - vs code
+##
 
 ## GitHub Stats
 
