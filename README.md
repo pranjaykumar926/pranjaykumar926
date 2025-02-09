@@ -34,6 +34,6 @@ I'm a passionate software developer with interests in machine learning, data ana
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pranjaykumar926/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pranjay-kumar-991033314/)
 
 Thank you for visiting my profile!
