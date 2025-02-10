@@ -1,39 +1,48 @@
-# Hi there, I'm Pranjay Kumar! 👋
+# Hey there, I'm Pranjay Kumar! 👋😃  
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranjaykumar926&color=blue)
+![👀 Profile Views](https://komarev.com/ghpvc/?username=pranjaykumar926&color=blue)  
+![🚀 GitHub Followers](https://img.shields.io/github/followers/pranjaykumar926?style=social)  
+![🌟 GitHub Stars](https://img.shields.io/github/stars/pranjaykumar926?style=social)  
 
-## About Me
+---
 
-I'm a passionate software developer with interests in machine learning, data analysis, and open-source contributions. I enjoy learning new technologies and applying them to solve real-world problems.
+## 🚀 About Me  
 
-- 🌱 I’m currently learning advanced Python and machine learning.
-- 📫 How to reach me: [pranjaykumar926@gmail.com](mailto:pranjaykumar926@gmail.com)
-- ⚡ Fun fact: I love hiking and exploring nature in my free time.
+🎯 **Software Developer | ML Enthusiast | Open-Source Contributor**  
 
-## Skills
+I'm a passionate coder who loves **Machine Learning**, **Data Analysis**, and **Problem Solving**. I enjoy exploring new technologies and implementing them in real-world applications! 💡💻  
 
-**Languages:**
-- Python
-- c
+- 🌱 **Currently Learning:** Advanced Python, Deep Learning & ML 🤖  
+- 🏆 **Interests:** AI, Open-Source, and Competitive Programming 🚀  
+- 📫 **Reach Me At:** [📧 Email Me](mailto:pranjaykumar926@gmail.com)  
+- ⚡ **Fun Fact:** I love **hiking 🏔️**, **tech gadgets 🤖**, and **challenges 🔥**  
 
-**Frameworks and Libraries:**
-- Pandas
-- numpy
-- opencv
-- networkx
-- matplotlib
+---
 
-**Tools and Technologies:**
-- Git & GitHub
-- vs code
-##
+## 🚀 Skills & Tech Stack  
 
-## GitHub Stats
+🖥️ **Languages:**  
+🔹 Python 🐍 | C 💻  
 
-![Pranjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjaykumar926&show_icons=true&theme=radical)
+📚 **Frameworks & Libraries:**  
+🔹 Pandas 📊 | NumPy 🔢 | OpenCV 📷 | NetworkX 🌐 | Matplotlib 📈  
 
-## Connect with Me
+🛠️ **Tools & Technologies:**  
+🔹 Git & GitHub 🛠️ | VS Code 🏗️  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pranjay-kumar-991033314/)
+---
 
-Thank you for visiting my profile!
+## 📊 GitHub Stats  
+
+🔥 **Check out my GitHub performance:**  
+
+![📊 GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjaykumar926&show_icons=true&theme=radical)  
+![⚡ Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjaykumar926&layout=compact&theme=radical)  
+
+---
+
+## 🤝 Connect with Me  
+
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pranjay-kumar-991033314/)  
+
+💬 **Let’s collaborate and build something amazing!** 🚀✨
