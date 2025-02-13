@@ -22,7 +22,7 @@ I'm a passionate coder who loves **Machine Learning 🤖**, **Data Analysis 📊
 ## 🚀 Skills & Tech Stack  
 
 🖥️ **Languages:**  
-💻 Python 🐍 | C 🚀  
+💻 Python 🐍 | C 🚀 | C++ 🔥 | Java ☕  
 
 📚 **Frameworks & Libraries:**  
 📊 Pandas | 🔢 NumPy | 📷 OpenCV | 🌐 NetworkX | 📈 Matplotlib  
