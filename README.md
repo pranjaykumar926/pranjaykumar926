@@ -12,7 +12,7 @@
 
 I'm a passionate coder who loves **Machine Learning 🤖**, **Data Analysis 📊**, and **Problem Solving 🧠**. I enjoy exploring new technologies and implementing them in real-world applications! 💡💻  
 
-- 🌱 **Currently Learning:** Advanced Python 🐍, Deep Learning 🧠 & ML 🤖  
+- 🌱 **Currently Learning:** Advanced Python 🐍, Deep Learning 🧠, ML 🤖 & **Cloud Computing ☁️**  
 - 🏆 **Interests:** AI 🚀, Open-Source 💻, and Competitive Programming ⚡  
 - 📫 **Reach Me At:** [📧 Email Me](mailto:pranjaykumar926@gmail.com)  
 - ⚡ **Fun Fact:** I love **hiking 🏔️**, **tech gadgets 🤖**, and **taking on new challenges 🔥**  
@@ -28,7 +28,7 @@ I'm a passionate coder who loves **Machine Learning 🤖**, **Data Analysis 📊
 📊 Pandas | 🔢 NumPy | 📷 OpenCV | 🌐 NetworkX | 📈 Matplotlib  
 
 🛠️ **Tools & Technologies:**  
-⚙️ Git & GitHub 🛠️ | 🏗️ VS Code | 🐧 Linux  
+⚙️ Git & GitHub 🛠️ | 🏗️ VS Code | 🐧 Linux | ☁️ Cloud Computing  
 
 ---
 
@@ -45,4 +45,4 @@ I'm a passionate coder who loves **Machine Learning 🤖**, **Data Analysis 📊
 
 🌐 [![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pranjay-kumar-991033314/)  
 
-💬 **Let’s collaborate and build something amazing!** 🚀✨🔥💡
+💬 **Let’s collaborate and build something amazing!** 🚀✨🔥💡☁️
