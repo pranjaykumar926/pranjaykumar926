@@ -44,5 +44,7 @@ I'm a passionate coder who loves **Machine Learning 🤖**, **Data Analysis 📊
 ## 🤝 Connect with Me  
 
 🌐 [![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pranjay-kumar-991033314/)  
+📖 [![📘 GFG Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/pranjaykslfb/)  
+📧 [![📩 Email](https://img.shields.io/badge/Email-Me-red?logo=gmail)](mailto:pranjaykumar926@gmail.com)  
 
 💬 **Let’s collaborate and build something amazing!** 🚀✨🔥💡☁️
